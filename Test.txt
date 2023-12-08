@@ -1,5 +1,8 @@
 import pypsa
 import matplotlib
+import numpy
 
 
 # Hej din skøre makker
+
+# Så prøver vi lige at lave en ændring igen. 
